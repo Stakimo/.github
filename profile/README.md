@@ -36,7 +36,7 @@ For inquiries, collaboration, or support, reach out to us:
 
 🌐 **Website:** [skatimo.com](https://www.skatimo.com)  
 📧 **Email:** contact@skatimo.com  
-🔗 **LinkedIn:** [Stakimo](https://www.linkedin.com/company/stakimo)  
+🔗 **LinkedIn:** [Stakimo](https://www.linkedin.com/company/stakimo1)  
 
 ---
 
