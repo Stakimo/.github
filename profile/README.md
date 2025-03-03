@@ -31,24 +31,6 @@ Our platform is built on a modern technology stack:
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from developers, designers, and tech enthusiasts! Here’s how you can contribute:
-
-1️⃣ Fork the repository  
-2️⃣ Create a new branch (`git checkout -b feature-branch`)  
-3️⃣ Commit your changes (`git commit -m "Add new feature"`)  
-4️⃣ Push to your branch (`git push origin feature-branch`)  
-5️⃣ Open a **Pull Request (PR)** for review  
-
-### 🔹 Coding Standards
-✅ Follow best practices for code readability and maintainability.  
-✅ Use **Prettier** and **ESLint** for formatting and linting.  
-✅ Document functions and APIs properly.  
-✅ Follow Git branching strategies (feature branching, hotfixes, etc.).  
-
----
-
 ## 📬 Contact
 For inquiries, collaboration, or support, reach out to us:
 
