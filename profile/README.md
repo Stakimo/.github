@@ -34,8 +34,8 @@ Our platform is built on a modern technology stack:
 ## 📬 Contact
 For inquiries, collaboration, or support, reach out to us:
 
-🌐 **Website:** [skatimo.com](https://www.skatimo.com)  
-📧 **Email:** contact@skatimo.com  
+🌐 **Website:** [skatimo.com](https://www.stakimo.com)  
+📧 **Email:** contact@stakimo.com  
 🔗 **LinkedIn:** [Stakimo](https://www.linkedin.com/company/stakimo1)  
 
 ---
